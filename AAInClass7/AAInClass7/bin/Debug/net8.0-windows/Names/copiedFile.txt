@@ -1,0 +1,13 @@
+In Class Instruction
+
+Make a Solution named InClass7.
+2. Display the following information in comments as heading in the main page:
+In-Class 7
+Your Firstname Lastname
+Instructor: Sukhbir Tatla
+3. Create a WPF App that reads the contents of a file (inside main folder) and copy it
+into a new file.
+4. The new file must be created within the sub-folder inside the main folder. The subfolder name will be student’s name.
+5. Your code is to read the contents of a file and create a new file inside student
+subfolder.
+6. Design the layout and appearance of the form of your own choice.
